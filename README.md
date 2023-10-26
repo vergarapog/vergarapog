@@ -9,10 +9,10 @@ I'm a passionate Front-End Developer with a deep love for JavaScript, React, and
 - **Version Control**: Git
 
 🌐 **Portfolio**: 
-- Check out my personal projects on [My Portfolio Website](https://brianvergara.netlify.app/).
+- Check out my personal projects on [My Portfolio Website](https://brianvergara.vercel.app/).
 
 📫 **Contact**:
-- 📧 Email: 201801166@iacademy.edu.ph
+- 📧 Email: vbrian.dev@gmail.com
 - ☎️ Phone: 0976-105-0239
 
 
