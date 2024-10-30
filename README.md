@@ -1,4 +1,8 @@
 ## 👋 Hi, I'm [Brian](https://brianvergara.vercel.app/)! 🌐 
+https://brianvergara.vercel.app/
+
+
+<br>
 
 A passionate Front-End Developer with a deep love for JavaScript, React, and all things web development. I'm dedicated to crafting engaging user interfaces and delivering exceptional web experiences.
 
@@ -8,8 +12,6 @@ A passionate Front-End Developer with a deep love for JavaScript, React, and all
 - **Testing**: Jest, Cypress
 - **Version Control**: Git / Github
 
-🌐 **Portfolio**: 
-- Check out my personal projects on [My Portfolio Website](https://brianvergara.vercel.app/).
 
 📫 **Contact**:
 - 📧 Email: vbrian.dev@gmail.com
