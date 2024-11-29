@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Brian](https://brianvergara.vercel.app/)! 🌐 
+## 👋 Hi, I'm [Brian](https://brianvergara.vercel.app/) 🌐 
 https://brianvergara.vercel.app/
 
 
