@@ -4,7 +4,7 @@ https://brianvergara.vercel.app/
 
 <br>
 
-A passionate Front-End Developer with a deep love for JavaScript, React, and all things web development. I'm dedicated to crafting engaging user interfaces and delivering exceptional web experiences.
+A passionate Front End Developer with a deep love for JavaScript, React, and all things web development. I'm dedicated to crafting engaging user interfaces and delivering exceptional web experiences.
 
 🚀 **Skills**:
 - **Languages**: JavaScript/TypeScript
