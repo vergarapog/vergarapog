@@ -8,7 +8,7 @@ A passionate Front End Developer with a deep love for JavaScript, React, and all
 
 🚀 **Skills**:
 - **Languages**: JavaScript/TypeScript
-- **Front-End Technologies**: Next.js, React.JS, Redux, Zustand, React Router, Vue.js, HTML, CSS, Sass, Tailwind CSS, Ant design
+- **Front-End Technologies**: Next.js, React.JS, React Native, Redux, Zustand, React Router, Vue.js, HTML, CSS, Sass, Tailwind CSS, Ant design
 - **Testing**: Jest, Cypress
 - **Version Control**: Git / Github
 
